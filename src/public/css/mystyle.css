@@ -1,0 +1,159 @@
+
+/*列表样式*/
+img {
+    border: 0;
+    max-width: 100%;
+}
+.card {
+    background: #fff;
+    position: relative;
+    border-radius: .1rem;
+    font-size: 0.5rem;
+    box-shadow: none !important;
+    margin: 0.2rem 0.2rem;
+}
+
+.card-header {
+    position: relative;
+    box-sizing: border-box;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    border-radius: .1rem .1rem 0 0;
+    margin: 0;
+    font-size: 0.65rem;
+    border-bottom: 1px solid #F7F7F7;
+    min-height: 0;
+    padding: .5rem 0rem;
+    margin: 0 .5rem;
+}
+
+
+.facebook-card .card-header {
+    display: block;
+    padding: .4rem 0rem;
+    margin: 0 .2rem;
+    padding-top: 0px;
+    padding-bottom: 0.2rem;
+}
+
+.facebook-card .facebook-avatar {
+    float: left;
+    margin-top: 0.12rem;
+    margin-left: 0.10rem;
+}
+
+.border-r {
+    border-radius: 50%;
+}
+
+.facebook-date {
+    position: relative;
+}
+
+.facebook-card .facebook-date {
+    font-size: .35rem;
+    color: #5f646e;
+    text-align: left;
+    word-break: break-all;
+}
+
+.c999 {
+    color: #999;
+    font-size: 14px;
+}
+
+.ft14 {
+    font-size: 14px;
+}
+
+.title-item {
+    display: inline-block;
+    word-wrap: break-word;
+    word-break: normal;
+}
+
+.card-content {
+    position: relative;
+    margin-top: .5rem;
+}
+
+.card-item {
+    padding: 0 .5rem;
+    margin-bottom: .1rem;
+    font-size: .65rem;
+    word-break: break-all;
+}
+/**/
+.vux-x-icon {
+    fill: #fff;
+    background: #4E9CDA;
+    border-radius: 50%;
+    box-shadow:0 2px 9px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.headStyle{
+    height:100%;
+    overflow: auto;
+}
+#scroller .xs-plugin-pullup-container {
+    display: none!important;
+}
+
+#scroller .vux-timeline-item-content {
+    /* padding: 0 0 0.1rem 0.1rem;*/
+    padding: 0 0 0 0;
+    padding-left: 0.5rem;
+    padding-right: 0.3rem;
+    text-align: left;
+}
+
+#scroller .vux-timeline {
+    padding: 0rem!important;
+    padding-left: 0.3rem!important;
+}
+
+#scroller .vux-timeline .card-header {
+    margin: 0rem!important;
+}
+
+#scroller .vux-timeline .card-footer .card-header {
+    justify-content: '';
+}
+.be-check .vux-cell-value{
+	color:#0c0c0c;
+}
+.no-bg .mint-cell-wrapper{
+	background:none;
+}
+/*weui*/
+.myCell {
+	padding-left: 10px;
+	height: 48px;
+	text-align: right;
+}
+.myCell-bd{
+	height:100%;
+	padding-right: 10px;
+}
+.no-line.weui-cell:before {
+	border: 0 none;
+}
+/*长字符串样式*/
+.longDivStyle{
+    overflow:hidden;
+    line-height:30px
+}
+.longStrStyle{
+    display:block;
+    width:100%;
+    word-break:keep-all;
+    white-space:nowrap; 
+    text-overflow: ellipsis;
+    overflow:hidden;
+}
+.weui-search-bar__box>i.weui-icon-search{
+    display: none;
+}

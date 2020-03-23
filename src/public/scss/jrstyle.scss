@@ -1,0 +1,40 @@
+$background: #f00;
+h1 {
+    background: $background;
+}
+
+.choose {
+    // height: 19rem;
+    height: 100vh;
+    .head {
+        height: 1.6rem;
+        padding: 8px;
+        background: #eee;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .middle-1 {
+        text-align: left;
+        // margin-top: 10px;
+        // height: 13.5rem;
+        height: 75vh;
+        overflow: auto;
+    }
+    .icon {
+        height: 1.6rem;
+        line-height: 1.5rem;
+        background: #eee;
+    }
+}
+
+.foot {
+    // height: 2.2rem;
+    // padding-top: 10px;
+    background: #eee;
+    line-height: 42px;
+}
+
+.vux-cell-value {
+        color: #000!important;
+    }
