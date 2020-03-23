@@ -38,7 +38,7 @@
     "ipaddr.js": "^1.4.0",
     "is-extglob": "^2.1.1",
     "jquery": "^3.2.1",
-    "js-yaml": "^3.9.0",
+    "js-yaml": "^3.13.1",
     "kind-of": "^5.0.0",
     "loader-utils": "^1.1.0",
     "lodash": "^4.17.4",
