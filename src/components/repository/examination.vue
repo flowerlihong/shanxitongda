@@ -283,19 +283,10 @@ export default {
               for(var i=0;i<spanLength;i++){
                  oSpan=span[i]; 
                 if(oSpan.id.indexOf('spanid')!==-1) {
-                  // console.log(oSpan)
-                  // console.log(oSpan.id)
                    oSpan.style.display='block';
                    oSpan.style.color='#ff0000';
                 }
               }
-              // for(var i=0;i<20;i++){
-
-              // }
-              // document.getElementById('paperTaxt').style.display='block'
-                //  $('#paperTaxt').html(res.data[0].code)
-              // console.log(document.getElementById('paperTaxt'))
-              //  $('group').html(res.data[0].code)
             }
           })
         }
