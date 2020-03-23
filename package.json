@@ -43,7 +43,7 @@
     "loader-utils": "^1.1.0",
     "lodash": "^4.17.4",
     "lodash.clonedeep": "^4.5.0",
-    "lodash.mergewith": "^4.6.0",
+    "lodash.mergewith": "^4.6.2",
     "media-typer": "^0.3.0",
     "mime-types": "^2.1.15",
     "mint-ui": "^2.2.13",
