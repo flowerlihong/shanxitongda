@@ -37,7 +37,7 @@
     "inherits": "^2.0.3",
     "ipaddr.js": "^1.4.0",
     "is-extglob": "^2.1.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "js-yaml": "^3.9.0",
     "kind-of": "^5.0.0",
     "loader-utils": "^1.1.0",
