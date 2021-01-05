@@ -13,7 +13,7 @@
     "ansi-regex": "^3.0.0",
     "arr-diff": "^4.0.0",
     "array-unique": "^0.3.2",
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "boolbase": "^1.0.0",
     "bootstrap": "^3.3.7",
     "braces": "^2.2.2",
